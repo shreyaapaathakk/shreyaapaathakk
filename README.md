@@ -1,57 +1,68 @@
-# 💫 Hi 👋, I'm Shreya Pathak
+<h1 align="center">Hi, I'm Shreya Pathak 👋</h1>
+<h3 align="center">Data Science Student | Aspiring Data Scientist & ML Engineer</h3>
 
-**MCA Student || Specializing in Data Science and Machine Learning**
+I'm pursuing a **BS in Data Science at IIT Madras** and an **MCA at IGNOU**. I'm building my foundations in programming, statistics, data analysis, and machine learning through coursework and hands-on projects.
 
-I'm passionate about solving real-world problems using data, machine learning, and Python. I'm continuously learning and building projects to strengthen my skills in data analysis, visualization, and AI. 😊😊
-
-- 🔭 **I’m currently working on:** Building practical Data Science projects
-- 🌱 **I’m currently learning:** Python, SQL, Pandas, NumPy, Machine Learning, Data Structures & Algorithms, Deep Learning
-- 👯 **I’m looking to collaborate on:** Data Analysis Projects, Machine Learning Models
-- 🤔 **I’m looking for help with:** SQL Practice, Data Visualization
-- 💬 **Ask me about:** MCA Academic Projects
-- 📫 **How to reach me:** shreyaapaathakk@gmail.com
-- 😄 **Pronouns:** She/her
-- ⚡ **Fun fact:** I Love Tech and Tech Loves Me
-
-**Goals for 2026**
-
-- Build 20+ quality GitHub repositories
-- Master Machine Learning fundamentals
-- Learn Deep Learning
-- Contribute to Open Source
-- Secure a Data Science Internship
-  
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shreyaapaathakk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
+</p>
 
 
-
-
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-pathak-749051420) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyaapaathakk@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 💻 Tech Stack:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shreyaapaathakk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shreyaapaathakk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shreyaapaathakk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shreyaapaathakk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=shreyaapaathakk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌟 **About Me**
+- 🎓 Pursuing a BS in Data Science at IIT Madras
+- 🎓 Pursuing an MCA at IGNOU
+- 📊 Interested in data analysis, statistical learning, and machine learning
+- 💻 Applying my knowledge through academic and personal projects
+- 🌱 Continuously learning and developing practical problem-solving skills
+
+---
+
+### 🛠️ **Tech Stack & Tools**
+#### 📊 **Data Science & Analytics**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🤖 **Machine Learning & AI**
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+#### 🎨 **Data Visualization**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📊 **GitHub Stats**
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaapaathakk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shreyaapaathakk&theme=dark&hide_border=false)
+
+---
+
+### Featured Projects
+- [Project Name] — A brief explanation of the problem, tools used, and what you learned.
+- [Project Name] — A brief explanation of the analysis or model and its results.
+
+---
+
+### Current Focus 
+Strengthening my data science foundations and building projects that demonstrate practical skills.
+
+---
+
+### 🌍 **Connect With Me**
+<p align="left">
+<a href="mailto:shreyaapaathakk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/technosnag/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+---
+
+### 💡 **Fun Fact**
+🎯 **AI is not replacing humans, it's empowering them!**  
+📊 **Data is the new oil, and I'm refining it!**  
+
+---
+
+### 📢 **Want to Collaborate?**
+If you're passionate about **Data Science, AI, or ML**, let's connect and work on something amazing! 🚀  
